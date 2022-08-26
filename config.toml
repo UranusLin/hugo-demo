@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'zh-TW'
 title = 'This is demo site'
-theme = 'Loveit'
+theme = 'LoveIt'
 
 # 作者配置
 [author]
