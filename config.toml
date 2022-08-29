@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'zh-TW'
-title = 'This is demo site'
+title = 'This is demo  site'
 theme = 'LoveIt'
 
 # 作者配置
